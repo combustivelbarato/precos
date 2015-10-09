@@ -1,12 +1,10 @@
-{
-  "precos": [
-    {
-      "posto": "Posto Alabama",
-      "precoGasolinaComum": 3.53,
-      "precoGasolinaAditivada": 3.56,
-      "precoAlcool": 2.45,
-      "precoDiesel": 2.97,
-      "endereco": "123"
-    }
-  ]
-}
+[
+  {
+    "posto": "Posto Alabama",
+    "precoGasolinaComum": 3.53,
+    "precoGasolinaAditivada": 3.56,
+    "precoAlcool": 2.45,
+    "precoDiesel": 2.97,
+    "endereco": "123"
+  }
+]
